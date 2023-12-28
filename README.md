@@ -1,6 +1,6 @@
 ### ✨✨✨I'am Dony!✨✨✨
 
-### Major : Arabic Translation/SW&AI
+### Major - Arabic Translation/SW&AI
 
 **dony1220** is a ✨ _special_ ✨ repository.
 
