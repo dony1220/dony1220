@@ -3,7 +3,8 @@
 
 **dony1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<h3 align="center">👩‍💻 My Github Stats 👩‍💻</h3>
+<h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
+
 ![dony's GitHub stats](https://github-readme-stats.vercel.app/api?username=dony1220&theme=solarized-light&show_icons=true)
 
 
