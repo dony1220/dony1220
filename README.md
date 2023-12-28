@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=&height=300&section=header&text=I'AM%20Dony&fontSize=60)
 
 ### Graduated - HUFS(Yongin)
-### Major - Arabic Translation/SW&AI
+### Major - Arabic Translation/SoftWare&AI
 
 
 <h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
