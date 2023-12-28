@@ -1,4 +1,4 @@
-### I'am Dony!👋👋👋👋👋👋
+### ✨✨✨I'am Dony!✨✨✨
 
 ### Major : Arabic Translation/SW&AI
 
