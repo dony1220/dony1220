@@ -1,5 +1,5 @@
 ### ✨✨✨I'am Dony!✨✨✨
-### Graduated : HUFS(Yongin)
+### Graduated - HUFS(Yongin)
 ### Major - Arabic Translation/SW&AI
 
 
