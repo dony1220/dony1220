@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=Venom&color=&height=300&section=header&text=I'AM%20Dony&fontSize=60)
+![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=I'AM%20Dony&fontSize=60)
 
 ### Graduated - HUFS(Yongin)
 ### Major - Arabic Translation/SoftWare&AI
