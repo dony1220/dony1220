@@ -13,9 +13,10 @@
 </a>
 
 
-<h3 align="left"><b>🛠 Used Stack 🛠</b></h3>
+<h3 align="left"><b>🛠 Recently Used Stack 🛠</b></h3>
 </br>
 <p align="left">
+
 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
 <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=black"/>
