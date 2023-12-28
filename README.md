@@ -2,7 +2,6 @@
 
 ### Major - Arabic Translation/SW&AI
 
-**dony1220** is a ✨ _special_ ✨ repository.
 
 <h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
 
