@@ -1,8 +1,8 @@
 ### I'am Dony!👋👋👋👋👋👋
 
-## Major : Arabic Translation/SW&AI CM
+### Major : Arabic Translation/SW&AI
 
-**dony1220** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**dony1220** is a ✨ _special_ ✨ repository.
 
 <h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
 
