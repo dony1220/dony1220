@@ -2,7 +2,7 @@
 
 ### Graduated - HUFS(Yongin)
 ### Major - Arabic Translation/SoftWare&AI
-
+### Now - Chunjae IT Education Trainee
 
 <h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
 <a href="s">
