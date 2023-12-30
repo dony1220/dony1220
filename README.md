@@ -32,6 +32,6 @@
 
 - 🌱 I’m currently learning BigData/AI
 - 💬 Ask me about :
-- 📫 How to reach me: alex6158@naver.com/anytime/anywhere
+- 📫 How to reach me: alex6158@naver.com/Any Time Welcome!
 - 😄 Pronouns : 
-- ⚡ Fun fact : 
+- ⚡ Fun fact : Sports, OTT(Movie)
