@@ -33,5 +33,5 @@
 - 🌱 I’m currently learning BigData/AI
 - 💬 Ask me about :
 - 📫 How to reach me: alex6158@naver.com/anytime/anywhere
-- 😄 Pronouns: 
-- ⚡ Fun fact: 
+- 😄 Pronouns : 
+- ⚡ Fun fact : 
