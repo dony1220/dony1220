@@ -34,4 +34,4 @@
 - 💬 Ask me about :
 - 📫 How to reach me: alex6158@naver.com/Anytime Welcome!
 - 😄 Pronouns : 
-- ⚡ Fun fact : 
+- ⚡ Fun fact : INFJ
