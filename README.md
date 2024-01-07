@@ -31,7 +31,6 @@
 <img alt="Google Colab" src ="https://img.shields.io/badge/Google Colab-F9AB00.svg?&style=for-the-badge&logo=Google Colab&logoColor=orange"/>
 
 - 🌱 I’m currently learning BigData/AI
-- 💬 Ask me about :
 - 📫 How to reach me: alex6158@naver.com/Anytime Welcome!
-- 😄 Pronouns : 
+- 😄 Instagram : mr.potat5
 - ⚡ Fun fact : INFJ
