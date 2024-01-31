@@ -5,7 +5,7 @@
 ### Now - Chunjae IT Education Trainee
 
 <h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
-<a href="s">
+<a href="https://github.com/${dony1220}">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dony1220&layout=compact&theme=tokyonight"/>
 </a>
 <a href="s">
