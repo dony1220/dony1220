@@ -2,7 +2,7 @@
 
 ### Graduated - HUFS(Yongin)
 ### Major - Arabic Translation/SoftWare&AI
-### Now - Chunjae Education
+### Now - Chunjae Education 제품분석팀 팀원(2024.05 ~ ING)
 
 <h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
 <a href="https://github.com/${dony1220}">
