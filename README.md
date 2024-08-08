@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=Venom&color=auto&height=300&section=header&text=I'M%20DONY&fontSize=90)
 
-### Graduated - HUFS(Yongin)
+### Graduated - HUFS(Global)
 ### Major - Arabic Translation/SoftWare&AI
 ### Now - Chunjae Education 제품분석팀 팀원(2024.05 ~ ING)
 
