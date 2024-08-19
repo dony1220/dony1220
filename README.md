@@ -34,7 +34,7 @@
 
 
 
-- 🌱 I’m currently learning BigData/AI
+- 🌱 I’m currently Working AI/Data Analysis/Data Engineering
 - 📫 How to reach me: alex6158@naver.com/Anytime Welcome!
 - 😄 Instagram : mr.potat5
 - ⚡ MBTI : INFJ
