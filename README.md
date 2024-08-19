@@ -2,7 +2,7 @@
 
 ### Graduated - HUFS(Global)
 ### Major - Arabic Translation/SoftWare&AI
-### Now - Chunjae Education 제품분석팀 팀원(2024.05 ~ ING)
+### Recent - Chunjae Education 제품분석팀 팀원(2024.05 ~ 08)
 
 <h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
 <a href="https://github.com/${dony1220}">
