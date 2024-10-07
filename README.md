@@ -3,7 +3,7 @@
 ### Graduated - HUFS(Global)
 ### Major - Arabic Translation/SoftWare&AI
 ### Previous Company - Chunjae Education 제품분석팀 팀원(2024.05 ~ 08)
-### Recent Company   - 한국뉴미디어 경제부 DA(2024.09 ~ )
+### Recent Company   - 한스경제 경제부 DA(2024.09 ~ )
 
 <h3 align="left">👩‍💻 My Github Stats 👩‍💻</h3>
 <a href="https://github.com/${dony1220}">
